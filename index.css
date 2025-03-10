@@ -1,0 +1,8 @@
+.deleteButton {
+    background-color: black;
+    color: red;
+    border-radius: 8px;
+    &:hover {
+        background-color: rgb(80, 80, 80);
+    }
+}
